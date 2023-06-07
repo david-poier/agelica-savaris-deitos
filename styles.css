@@ -31,5 +31,6 @@ nav a {
 h1 {
     font-size: 20px;
     color: #ffffff;
-    margin-top: 20px;
+    padding: 9px;
+    margin-right: 5px;
 }
