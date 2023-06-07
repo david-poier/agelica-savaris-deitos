@@ -27,12 +27,3 @@ nav a {
     text-decoration: none;
     color: #ffffff;
 }
-
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: right;
-    padding: 0.5rem;
-    gap: 0.5rem;
-    background-color: #191970;
-}
