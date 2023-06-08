@@ -21,9 +21,11 @@ nav a {
     display: inline-block;
     min-width: 150px;
     padding: 9px;
+    border-radius: 20px;
     border: solid 1px #ffffff;
     text-align: center;
     text-decoration: none;
+    color: #ffffff;
 }
 
 h1 {
@@ -38,8 +40,6 @@ h1 {
 .btn{
     cursor: pointer;
     transition: background .4s;
-    border-radius: 20px;
-    color: #ffffff;
 }
 
 .btn:hover{
