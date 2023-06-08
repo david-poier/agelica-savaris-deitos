@@ -1,5 +1,5 @@
 * {
-    background-color: #191970;
+    background-color: #002d52;
     box-sizing: border-box;
 }
 
@@ -44,4 +44,14 @@ h1 {
 .btn:hover{
     background-color: black;
     font-size: 15px;
+}
+
+.img{
+    margin-left: 1440px;
+    margin-top: 215px;
+    position: relative;
+}
+
+#facebook{
+    margin-top: 0px;
 }
