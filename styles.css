@@ -43,4 +43,5 @@ h1 {
 
 .btn:hover{
     background-color: black;
+    size: 30px;
 }
