@@ -1,6 +1,6 @@
 @media (max-width: 600px) {
     #showcase{
-        margin: 35px;
+        margin-top: 110px;
         width: 289px;
     }
 
@@ -11,14 +11,17 @@
     #logo{
         width: 130px;
         margin-top: 10px;
+        margin-left: 118px;
     }
 
     .img{
-        margin-left: 260px;
-        margin-top: 10px;
+        margin-left: 81px;
+        margin-top: 0px;
+        position: absolute;
     }
 
     #facebook{
-        margin-left: 260px;
+        margin-left: 230px;
+        margin-top: 0px;
     }
 }
