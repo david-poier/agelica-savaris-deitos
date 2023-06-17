@@ -1,18 +1,24 @@
 @media (max-width: 600px) {
     #showcase{
         margin: 35px;
-        width: 742px;
+        width: 411px;
     }
 
     nav{
-        margin-right: -454px;
+        margin-right: 115px;
+    }
+
+    #logo{ 
+        margin-left: 12px;
+        margin-top: -71px;
+        width: 110px;
     }
 
     .img{
-        margin-left: 434px;
+        margin-left: 280px;
     }
 
     #facebook{
-        margin-left: 333px;
+        margin-left: 211px;
     }
 }
