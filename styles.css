@@ -38,6 +38,18 @@ nav a {
 }
 
 .img{
+    margin-left: 1440px;
+    margin-top: 215px;
+}
+
+#facebook{
+    margin-top: 0px;
+}
+
+#showcase{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px; 
     margin-top: -33px;
     margin-left: 765px;
     position: relative;
