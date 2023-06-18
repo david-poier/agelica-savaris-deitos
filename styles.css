@@ -27,14 +27,6 @@ nav a {
     color: #ffffff;
 }
 
-h1 {
-    font-size: 20px;
-    color: #ffffff;
-    padding: -7px;
-    margin-top: -35px;
-    margin-left: 30px;
-}
-
 .btn{
     cursor: pointer;
     transition: background .4s;
@@ -58,4 +50,43 @@ h1 {
     margin-left: 50px;
     margin-top: 50px;
     margin-right: 50px; 
+    margin-top: -33px;
+    margin-left: 765px;
+    position: relative;
+}
+
+#facebook{
+    margin-left: 50px;
+}
+
+#showcase{
+    text-align: center;
+    margin: 35px;
+}
+
+#logo{
+    margin-top: -110px;
+    margin-left: 50px;
+}
+
+#footer{
+    height: 200px;
+    text-align: center;
+    background-color: black;
+}
+
+#logo-footer{
+    margin-left: -350px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+#h1-title{
+    font-size: 50px;
+    position: absolute;
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 830px;
+    margin-top: 50px;
 }
