@@ -72,7 +72,8 @@ nav a {
 #footer{
     height: 200px;
     text-align: center;
-    background-color: black;
+    background-color: #222;
+    margin-top: 50px;
 }
 
 #logo-footer{
@@ -84,23 +85,54 @@ nav a {
 #h1-title{
     font-size: 50px;
     position: absolute;
-    background-color: black;
+    background-color: #222;
     text-align: center;
     color: #ffffff;
     margin-left: 550px;
     margin-top: 60px;
 }
 
-#tittle-main {
-  color: #ffffff;
-  margin: 15px;
-  font-size: 50px;
-  text-align: center;
+
+#features {
+    width: 100%;
+    background: #222;
+    color: #eee;
+    padding: 50px;
 }
 
-#p-main {
-    color: #ffffff;
-    margin: 20px;
-    font-size: 25px;
+#features-container {
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 50px;
+    background: #222;
+}
+
+.feature {
+    display: flex;
+    flex-direction: column;
+    background: #333;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background: #333;
+}
+
+.headline {
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
     text-align: center;
+    padding-bottom: 50px;
+    letter-spacing: 2px;
+    background: #222;
+}
+
+.feature-p {
+    background: #333;
 }
