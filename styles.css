@@ -73,7 +73,7 @@ nav a {
     height: 200px;
     text-align: center;
     background-color: #222;
-    margin-top: 50px;
+    margin-top: 2px;
 }
 
 #logo-footer{
@@ -155,8 +155,16 @@ nav a {
     background: #222;
     color: #ffffff;
     font-family: Comic Sans MS, Comic Sans, cursive;
-    width: 1675px;
-    margin-top: -25px;
+    margin-left: 180px;
+    margin-top: -5px;
+}
+
+.p {
+    background: #222;
+    color: #ffffff;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-left: 180px;
+    margin-top: -33px;
 }
 
 i {
