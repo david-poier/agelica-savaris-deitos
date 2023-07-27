@@ -155,4 +155,12 @@ nav a {
     background: #222;
     color: #ffffff;
     font-family: Comic Sans MS, Comic Sans, cursive;
+    width: 1675px;
+    margin-top: -25px;
 }
+
+i {
+   background: #222;
+   font-size: 30px;
+}
+
