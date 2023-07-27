@@ -127,12 +127,24 @@ nav a {
     font-size: 2.2rem;
     text-transform: uppercase;
     font-weight: bold;
-    text-align: center;
-    padding-bottom: 50px;
+    text-align: left;
+    padding-bottom: 0px;
     letter-spacing: 2px;
     background: #222;
 }
 
 .feature-p {
     background: #333;
+}
+
+#headline {
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: right;
+    padding-bottom: 0px;
+    letter-spacing: 2px;
+    background: #222;
+    margin-top: -42px;
+    width: 1020px;
 }
