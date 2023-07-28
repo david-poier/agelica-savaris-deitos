@@ -72,8 +72,7 @@ nav a {
 #footer{
     height: 200px;
     text-align: center;
-    background-color: #222;
-    margin-top: 2px;
+    background-color: #ffffff;
 }
 
 #logo-footer{
@@ -85,9 +84,9 @@ nav a {
 #h1-title{
     font-size: 50px;
     position: absolute;
-    background-color: #222;
+    background-color: #ffffff;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     margin-left: 550px;
     margin-top: 60px;
 }
@@ -95,9 +94,11 @@ nav a {
 
 #features {
     width: 100%;
-    background: #222;
+    background: #ffffff;
     color: #eee;
     padding: 50px;
+    border: solid 15px #3b7093;
+    font-size: 18px #ffffff;
 }
 
 #features-container {
@@ -106,63 +107,56 @@ nav a {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 50px;
-    background: #222;
+    background: #ffffff;
 }
 
 .feature {
     display: flex;
     flex-direction: column;
-    background: #333;
+    background: #0190c6;
     padding: 20px;
-    border-radius: 5px;
-}
-
-.feature-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    background: #333;
+    border-radius: 20px;
 }
 
 .headline {
     font-size: 2.2rem;
-    font-family: Comic Sans MS, Comic Sans, cursive;
     text-transform: uppercase;
     font-weight: bold;
     text-align: left;
     padding-bottom: 0px;
     letter-spacing: 2px;
-    background: #222;
+    background: #ffffff;
+    color: #000000;
 }
 
 .feature-p {
-    background: #333;
+    background: #0190c6;
+    color: #ffffff;
 }
 
 #headline {
     font-size: 2.2rem;
-    font-family: Comic Sans MS, Comic Sans, cursive;
     text-transform: uppercase;
     font-weight: bold;
     text-align: right;
     padding-bottom: 0px;
     letter-spacing: 2px;
-    background: #222;
+    background: #ffffff;
     margin-top: -42px;
-    width: 1045px;
+    width: 1015px;
+    color: #000000;
 }
 
 #p {
-    background: #222;
-    color: #ffffff;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    background: #ffffff;
+    color: #000000;
     margin-left: 180px;
     margin-top: -5px;
 }
 
 .p {
-    background: #222;
-    color: #ffffff;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    background: #ffffff;
+    color: #000000;
     margin-left: 180px;
     margin-top: -33px;
 }
