@@ -24,4 +24,24 @@
         margin-left: 230px;
         margin-top: 0px;
     }
+
+    #headline{
+        text-align: left;
+        margin-top: 430px;
+        position: absolute;
+        font-size: 28px;
+    }
+
+    #features-container{
+        display: inline-block;
+    }
+
+    .headline{
+        text-align: center;
+    }
+
+    .feature{
+        margin-block: 135px;
+        margin-top: 2px;
+    }
 }
