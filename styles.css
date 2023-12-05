@@ -40,6 +40,7 @@ nav a {
 .img{
     margin-left: 665px;
     margin-top: -2px;
+    text-align: center;
 }
 
 #facebook{
@@ -53,6 +54,7 @@ nav a {
     margin-top: -33px;
     margin-left: 765px;
     position: relative;
+    text-align: center;
 }
 
 #facebook{
