@@ -18,11 +18,13 @@
         margin-left: 81px;
         margin-top: 0px;
         position: absolute;
+        text-align: center;
     }
 
     #facebook{
         margin-left: 230px;
         margin-top: 0px;
+        text-align: center;
     }
 
     #headline{
