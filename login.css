@@ -514,3 +514,25 @@ input:-webkit-autofill
         width: 100%;
     }
 }
+
+.btn-login {
+    background-color: #002d52;
+    transition: background-color .5s;
+}
+.btn-login:hover {
+    background-color: #0190c6;
+    color: #002d52;
+}
+.btn {
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 10px;
+    padding: 10px 50px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 150px;
+    align-self: center;
+    border: none;
+    margin-top: 4px;
+}
